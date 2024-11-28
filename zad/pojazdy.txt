@@ -1,0 +1,4 @@
+Typ: Samochod, Marka: Mazda, Rok: 1991, Liczba drzwi: 4
+Typ: Samochod, Marka: Opel, Rok: 2002, Liczba drzwi: 2
+Typ: Samochod, Marka: Yamaha, Rok: 1996, Kufry: 1
+Typ: Samochod, Marka: Yamaha, Rok: 2014, Kufry: 0
